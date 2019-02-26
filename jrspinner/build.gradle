@@ -56,8 +56,8 @@ ext {
 
     libraryDescription = 'Custom spinner that inspired by instagram language chooser'
 
-    siteUrl = 'https://github.com/jrizani/JRSpinner'
-    gitUrl = 'https://github.com/jrizani/JRSpinner.git'
+    siteUrl = 'https://github.com/DavidCabral/JRSpinner'
+    gitUrl = 'https://github.com/DavidCabral/JRSpinner.git'
 
     libraryVersion = '0.1'
 
