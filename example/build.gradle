@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "jrizani.jrspinner.example"
-        minSdkVersion 19
+        minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"

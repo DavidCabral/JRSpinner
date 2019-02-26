@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         mJRSpinner.setItems(getResources().getStringArray(R.array.tesItems));
         mJRSpinner.setTitle("Choose jrspinner_item programmatically");
         mJRSpinner.setExpandTint(R.color.jrspinner_color_default);
+        mJRSpinner.startSelected(1);
 
         mJRSpinner.setOnItemClickListener(new JRSpinner.OnItemClickListener() {
             @Override
