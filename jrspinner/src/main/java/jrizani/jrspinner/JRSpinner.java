@@ -84,7 +84,6 @@ public class JRSpinner extends android.support.v7.widget.AppCompatEditText {
     public void startSelected(int index){
         selected = index;
         setText(items[index]);
-
     }
 
     public void setOnItemClickListener(OnItemClickListener onItemClickListener) {
